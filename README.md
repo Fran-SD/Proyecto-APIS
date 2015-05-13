@@ -25,3 +25,6 @@ OBJETIVO:
 -Con lo cual dicho código se encargará de trabajar con el fichero mencionado, y haciendo uso de modulos de Python como pandas y matplot, generará unas gráficas en formato .png sobre la información obtenida.
 
 -Finalmente el fichero de código en Python, drive_uploader.py, se encargará de hacer la subida de dichas imágenes generadas a Google Drive, haciendo uso de dicha API de Drive, pasando por el tema de la Autenticación hasta acabar realizando la subida.
+
+
+NOTA: En el apartado "Issues" (arriba en la barra lateral derecha)  pueden observarse las imágenes que fueron obtenidas y las cuales fueron subidas a Drive posteriormente.
