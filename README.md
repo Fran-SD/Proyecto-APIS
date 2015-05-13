@@ -28,3 +28,9 @@ OBJETIVO:
 
 
 NOTA: En el apartado "Issues" (arriba en la barra lateral derecha)  pueden observarse las imágenes que fueron obtenidas y las cuales fueron subidas a Drive posteriormente.
+
+URL's Imágenes Google Drive: 
+
+https://drive.google.com/open?id=0B_WJV0AQDmwlaS1JaEoxYVFoV0E&authuser=0
+
+https://drive.google.com/open?id=0B_WJV0AQDmwlQ2gyUnQwcEpFd2s&authuser=0
