@@ -2,6 +2,12 @@
 
 Autores: Rivas Troncoso, José Rubén - Pérez Rivera, Antonio Miguel.
 
+::Módulos necesarios::
+
+$ sudo apt-get install python-pandas   (módulo pandas y plot para tratamiento de datos y graficación)
+$ pip install --upgrade google-api-python-client (trabajar con API de Google)
+$ pip install tweepy  (módulo de Twitter para Python sencillo de manejar)
+
 EXPLICACIÓN DEL PROYECTO:
 
 - Hemos enfocado el uso de las diferentes API's de tal manera que nos basaremos en usar la API de Twitter y la API de Google Drive.
