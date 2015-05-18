@@ -1,4 +1,4 @@
-# Proyecto-APIS
+# Proyecto-APIS (Lea la documentación del proyecto disponible en formato .pdf)
 
 Autores: Rivas Troncoso, José Rubén - Pérez Rivera, Antonio Miguel.
 
